@@ -1,0 +1,16 @@
+{
+  "name": "virtual-gallery-app",
+  "version": "1.0.0",
+  "description": "Virtual gallery for digital artists to showcase their work. Users can explore different galleries, leave comments, and even purchase digital art directly through the application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.1.0"
+  }
+}
